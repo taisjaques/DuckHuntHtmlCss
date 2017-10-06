@@ -1,0 +1,29 @@
+.container {
+    width: 800px;
+    height: 600px;
+    border: 7px;
+    border-style: solid;
+    background-color: #4FBEF7;
+    background-image: url("C:/Users/taisj/Documents/repositorios/DuckHuntHtmlCss/sprites/background.png");
+    background-position: center bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.score {
+    width: 559px;
+    height: 74px;
+    margin: 510px auto;
+    border: 3px;
+    border-radius: 12px;
+    border-style: solid;
+    border-color: #42E740;
+    background-color: #000000;
+}
+/* .score::before {
+    content: url("C:/Users/taisj/Documents/repositorios/DuckHuntHtmlCss/sprites/alive-duck-small.png");
+    height: 100%;
+} */
+.score img {
+    height: 21px;
+    margin: 20px -18px 20px 26px;
+}
